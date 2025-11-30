@@ -1,3 +1,7 @@
+aim_map
+35hp_32
+he_glassroom32
 de_dust
 de_dust2
 de_inferno
+de_nuke
