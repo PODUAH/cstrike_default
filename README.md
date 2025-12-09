@@ -1,5 +1,5 @@
 <p align="center">
-  Stable and Clean files by <a href="https://olds.ro">OLDS.RO</a>
+  Stable and Clean files by OldStyle edited by <a href="https://anormalii.com">ANORMALII.COM</a>
 </p>
 
 <p align="center">
@@ -22,15 +22,15 @@ Egg for Pelican and Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 
 | Panel (egg download)                                                                                            | Author name                          | Status                    |
 | :-------------------------------------------------------------------------------------------------------------- | :----------------------------------- | :------------------------ |
-| [Pelican](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json)     | [Daemon](https://github.com/DemOnJR) | :white_check_mark:        |
-| [Pterodactyl](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json) | [Daemon](https://github.com/DemOnJR) | :construction: Not Tested |
+| [Pelican](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json)     | [Daemon](https://github.com/DemOnJR) | :construction: Not Tested |
+| [Pterodactyl](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json) | [Daemon](https://github.com/DemOnJR) | :white_check_mark:        |
 
 ## Systems
 
 Tested
-| Ubuntu                                        | Status             |
+| Debian                                        | Status             |
 | :-------------------------------------------- | :----------------- |
-| 24.04 LTS (GNU/Linux 6.8.0-40-generic x86_64) | :white_check_mark: |
+| 13                                            | :white_check_mark: |
 | ...                                           | ...                |
 
 ---
@@ -49,7 +49,6 @@ Tested
 | :-------------------------------------------------------- | :--------------------------------------------------------- |
 | [HLDS](https://developer.valvesoftware.com/wiki/SteamCMD) | [Valve](https://developer.valvesoftware.com/wiki/SteamCMD) |
 | [AMX Mod X](https://www.amxmodx.org/amxxdrop/1.9/)        | [AMXX Dev Team](https://www.amxmodx.org/)                  |
-| TODO                                                      | .......                                                    |
 
 ## Modules
 
